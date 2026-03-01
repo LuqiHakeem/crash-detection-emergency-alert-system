@@ -132,7 +132,7 @@ Through this project, the following skills were developed:
 
 ## 👨‍💻 Author
 
-Developed by: - Muhammad Luqman Hakim (@Luqi2002)
+Developed by: - Muhammad Luqman Hakim (@LuqiHakeem)
               - Muhammad Iqbal(@ )
 Embedded Systems Mini Project  
 Engineering Student
